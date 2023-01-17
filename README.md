@@ -1,2 +1,3 @@
 # OreCraft-version7
-Regístros de cambios para OreCraft Tmp. 7
+Economía global
+Prefijos re-acomodados
